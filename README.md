@@ -8,4 +8,4 @@ Welcome to my GitHub profile. Be sure to check out my blog, which is hosted righ
 - 🌱 I’m currently learning Swift
 - ⚡ Fun fact: My favourite programming word of the moment is 'instantiation', because it brings an object to life.
 
-
+<p> <img src="https://komarev.com/ghpvc/?username=tofuyong&label=Profile%20views&color=ce9927&style=flat" alt="tofuyong" /> </p>
