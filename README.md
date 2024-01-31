@@ -2,8 +2,6 @@
 
 Welcome to my GitHub profile. 
 
-[Click here to visit my blog](https://tofuyong.github.io/)
-
 - 🔭 I’m currently working on: A fun iOS app
 - 🌱 I’m currently learning: Swift
 - ⚡ Fun fact: My favourite programming word of the moment is 'instantiation', because it brings an object to life.
